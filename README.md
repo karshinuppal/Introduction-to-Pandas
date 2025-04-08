@@ -72,7 +72,6 @@ Feel free to fork this repo, suggest improvements, or add your own solutions.
 If you spot any errors or have better solutions — PRs are welcome!
 
 ---
-##⭐️ Support
+## ⭐️ Support
 If you find this helpful, leave a ⭐️ on the repo and share with fellow data lovers!
 
----
