@@ -65,7 +65,7 @@ You can install pandas using pip:
 
 ```bash
 pip install pandas
-
+```
 ---
 ## ✍️ Contribution
 Feel free to fork this repo, suggest improvements, or add your own solutions.
