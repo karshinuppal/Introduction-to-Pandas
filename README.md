@@ -1,4 +1,4 @@
-# 🐼 Pandas LeetCode Q&A
+# 🐼 Introduction to Pandas LeetCode
 
 Welcome to my GitHub repository focused on solving **Pandas-related problems from LeetCode**.  
 This is a personal collection of solutions using the **Pandas** library in Python — perfect for anyone looking to improve their data manipulation skills with real-world-style problems.
