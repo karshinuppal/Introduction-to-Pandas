@@ -11,7 +11,7 @@
 # +-------------+--------+
 # Write a solution to display the first 3 rows of this DataFrame.
 
-# Example 1:
+# Example:
 
 # Input:
 # DataFrame employees
